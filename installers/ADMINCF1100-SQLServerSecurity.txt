@@ -1,0 +1,8 @@
+For admincf11-solution database create the following user in SQL Express
+
+coldfusion / password
+
+Then create the admincf11-solution database with the coldfusion user as the owner.
+Then restore the database from \admincf\installers\admincf11-solution.bak
+
+sa password is password1
